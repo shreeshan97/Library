@@ -7,10 +7,11 @@
 		(at 0 -30.6 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "5a89f896-595d-4642-ae2a-f5ca95c08524")
 		(effects
 			(font
-				(size 0.8 0.8)
+				(size 0.6 0.6)
 				(thickness 0.1)
 			)
 		)
@@ -22,7 +23,7 @@
 		(uuid "d5be5b33-40dd-4c25-97b8-2da95ec595ed")
 		(effects
 			(font
-				(size 0.8 0.8)
+				(size 0.6 0.6)
 				(thickness 0.1)
 			)
 		)
@@ -234,18 +235,6 @@
 		)
 		(layer "F.Fab")
 		(uuid "140bc0cb-dcbf-46bd-8328-0a7647b5179c")
-	)
-	(fp_text user "${REFERENCE}"
-		(at -0.05 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "5556947c-eeda-4c87-b9e9-27e2fec15b1d")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
-			)
-		)
 	)
 	(pad "1" thru_hole roundrect
 		(at -11.43 -29.97)

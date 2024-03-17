@@ -4,13 +4,14 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -1.85 0)
+		(at 0 -1.8 0)
 		(layer "F.SilkS")
 		(uuid "44e3bb3d-3719-4d9f-ba0f-efbf1a634e46")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)
@@ -20,8 +21,9 @@
 		(uuid "f73574dd-f901-416d-a2dc-2b072de4f5c9")
 		(effects
 			(font
-				(size 0.787402 0.787402)
-				(thickness 0.15)
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)
@@ -114,8 +116,9 @@
 		(uuid "f7f68367-7dfa-4a46-b47f-959370916843")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)

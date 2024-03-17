@@ -4,24 +4,25 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -2.15 0)
+		(at 0 -2 0)
 		(layer "F.SilkS")
 		(uuid "24b7109e-cb53-4494-8c31-0d441b69acb3")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)
 	(property "Value" "SW-TACT-342"
-		(at 0 2.1 0)
+		(at 0 2 0)
 		(layer "F.Fab")
 		(uuid "73570534-db81-4896-8ed7-a1fd89c130ff")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 0.6 0.6)
+				(thickness 0.1)
 				(bold yes)
 			)
 		)
@@ -152,8 +153,9 @@
 		(uuid "72e675f6-3a67-42e2-92cf-ecb04823cf92")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)
